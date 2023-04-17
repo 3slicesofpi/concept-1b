@@ -5,7 +5,7 @@
 ## Desired Outcomes (Reader):
 - Understand the economic and social situation in Singapore.
 - A top-down view of Qua-Toyne's military woes.
-- Basic character development for Gennesone, who is stressed and worried.
+- Basic character development for Gennesone, who is stressed and worried and considers the trade deal to be his only hope; he is determined to see it succeed.
 - Finally, establish the technological disparity between the two nations.
 #### Character Focus: Foreign Affairs Commissioner Beyn of the Principality, Foreign Minister Gensonne of the Republic of Singapore
 
@@ -19,3 +19,8 @@
 - There is a large number of refugees fleeing warzones in Singapore. Big social impact. Minor protests for now.
 - There is a rising fear that can be felt in the tense atmosphere.
  
+## Outline:
+TODO
+
+
+ideas: liaison is mighty sus but has to sign the deal as they are desperate. 
