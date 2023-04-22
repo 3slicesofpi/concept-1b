@@ -28,8 +28,13 @@
 - The cable TV is suddenly cut off during a news broadcast. 
 - The hotel is completely empty. 
 - During the car ride, the driver took an exceptionally long route. 
--
-- Focus shifts to Foreign Minister Gennesone, who is fearful that the QT may not be willing to sign the trade deal.   
+- <br>
+- Focus shifts to Foreign Minister Gennesone, who is fearful that the QT may not be willing to sign the trade deal.
+(he doesnt actually know that theyre willing, its just that hes nervous about the whole thing)
+- He convinces the PM to authorize military force to help QT in its war.
+- propaganda, news to prepare the people for military intervention in QT (just a special military operation)
+- a military showcase for liaison
+- eventually liaison signs the deal :)
 
 
 ideas: liaison is mighty sus but has to sign the deal as they are desperate. 
