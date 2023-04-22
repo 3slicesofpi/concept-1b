@@ -22,7 +22,6 @@
  
 ## Outline:
 - Follow the source material, but keep dramatic undertone of lack of resources, desperation (civilians and refugees) and increasing authoratrianism. 
-
-
-
-ideas: liaison is mighty sus but has to sign the deal as they are desperate. 
+- 11f9jw6c
+TODO
+press Edit File in mid-top-right to continue writing...
