@@ -6,9 +6,10 @@
 - Understand the economic and social situation in Singapore.
 - A top-down view of Qua-Toyne's military woes.
 - Basic character development for Gennesone, who is stressed and worried and considers the trade deal to be his only hope; he is determined to see it succeed.
+- Begin transition of Singapore civilian govt to military led govt. (start only)
 - Introduce Qua-Toyne religion
 - Finally, establish the technological disparity between the two nations.
-#### Character Focus: Foreign Affairs Commissioner Beyn of the Principality, Foreign Minister Gensonne of the Republic of Singapore
+#### Character Focus: Foreign Affairs Commissioner Beyn of the Principality (Beyn), Foreign Minister Gensonne of the Republic of Singapore (Gens)
 
 ## Desired Outcomes (Plot):
 - First Contact between Singapore and Qua-Toyne, focusing on Qua-Toyne perspective
@@ -21,7 +22,13 @@
 - There is a rising fear that can be felt in the tense atmosphere.
  
 ## Outline:
+- QT(Beyn) is informed of the first contact incident during a council meeting about the war. 
+- Beyn meets Gensonne at Maihark Port. Beyn visits the docked frigate as both await a helicopter to take them back.
+- Beyn marvels at the massive frigate and the helicopter but his appearnce betrays no feeling at all, much to the worry of Gensonne (this will be the set-up for future tension)
+- Beyn and his liaison is chucked into a hotel as the nation (SG) makes preparations to formally recieve the QT liasion.
+- Genesonne sees Qt as a potential source of food to keep population from starving.
+- As he writes the trade deal paper, he realises that Singapore has nothing to export and will expoerience severe deficit.
+- Gensonne's friend and colleague in military suggests exporting security in exchange for food supply (subtext: use military force and make them a protectorate)
+- Gensonne does not agree with this (he prefers a mutual defence compact) but agrees anyways.
+- Beyn and liaison is shown a military parade.
 - 
-
-
-ideas: liaison is mighty sus but has to sign the deal as they are desperate. 
