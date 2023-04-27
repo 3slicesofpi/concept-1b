@@ -6,7 +6,6 @@
 - Understand the economic and social situation in Singapore.
 - A top-down view of Qua-Toyne's military woes.
 - Basic character development for Gennesone, who is stressed and worried and considers the trade deal to be his only hope; he is determined to see it succeed.
-- Begin transition of Singapore civilian govt to military led govt. (start only)
 - Introduce Qua-Toyne religion
 - Finally, establish the technological disparity between the two nations.
 #### Character Focus: Foreign Affairs Commissioner Beyn of the Principality (Beyn), Foreign Minister Gensonne of the Republic of Singapore (Gens)
@@ -16,7 +15,7 @@
 - Qua-Toyne liaison is invited onto the shores of Singapore.
 - Members of liaison become mildly suspicious of govt efforts to hide information from them. (TV programmes being cut off, loud but distant explosions)
 - Finally, Sign Trade deal: military aid and security guarntees in exchange for Qua-Toyne's plentiful food.
-
+- Begin transition of Singapore civilian govt to military led govt. (start only)
 - Establish that the reduction and subsequent ceasing of overseas imports have hurt the economy; vending machines sit empty.
 - There is a large number of refugees fleeing warzones in Singapore. Big social impact. Minor protests for now.
 - There is a rising fear that can be felt in the tense atmosphere.
@@ -31,4 +30,6 @@
 - Gensonne's friend and colleague in military suggests exporting security in exchange for food supply (subtext: use military force and make them a protectorate)
 - Gensonne does not agree with this (he prefers a mutual defence compact) but agrees anyways.
 - Beyn and liaison is shown a military parade.
+- After parade, Gensonne buys food (yucky factory made sludge) and goes home. News about the QT liasion and the military parade, then protests about refugees and food, before he finally collapses on the sofa.
+- Operation Overcast Sky, to convince the people of Qt that SG are 'gods' (subtext: colonialism, which is bad) so that they (QT) will accept.  
 - 
