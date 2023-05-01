@@ -2,23 +2,7 @@ READ THIS FIRST
 # Summoning Singapore Reimagined -- Concept-1b
 version-control/handling for concept-1b (Summoning-Singapore-Reimagined)
 
-A 4 part story. 
-After being saved from total nuclear annhilation, the Republic of Singapore and its citizens find themselves transported into a new world. They must find new allies, extract resources and assert their sovereignty while fending off provocations by rivals and enemies from within and without. The old world was a frightful place, and this world seeks to be no different.  
 
-## Main Targets
-
-#### Spiralling Into Authoritarianism
-
-As the Republic of Singapore struggles to address teething problems and assert its soverignty in a sea of hostile nations, increasingly dictatorial methods have to be used. The rights of the individual must be sacrificed for the greater good. 
-
-- Show the increasingly harsh measures Government takes to address problems (Food Problems: Military Force, Colonialism) (Protests: Curfew, shoots)
-- Erosion of democratic values in the government. Many democratic processes are skipped entirely (Technology Outflow Act)
-- The Constitution is ignored most of the time (Emergency Measures Act, passed during WW)
-- Finally, total ignorance of the will of the people: (Continued research into deadly bacteria)
-
-#### No Way Home 
-
-We cannot go home. Our country was burnt and razed to the ground by nukes and microbes alike, then cut off completely. We had no choice but to settle here, it is the only place left with a supply of food and water. We don't get much of that here though, One meal a day is enough, they say. Electricity here is tightly rationed too; we get only a few hours of electricity to charge our phones. Our 
 
 
 ## Why Github?
@@ -48,9 +32,7 @@ English is a language after all.
  
 ## Help Out!
 
-Thanks for helping! It becomes boring in here sometimes.
-
-TODO
+Thanks for helping! Every single commit by all of you improves the story in more ways than a single author could ever do. Help by contributing ideas, introducting plot devices or suggesting new frameworks. Spellchecking and editing also helps too!
 
 ## Monthly Target
-June Target: 1.25 MB of text (.md files) 
+June Target: 1.00 MB of text (.md files, REVISED TARGET) 
