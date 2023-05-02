@@ -2,7 +2,7 @@ READ THIS FIRST
 # Summoning Singapore Reimagined -- Concept-1b
 version-control/handling for concept-1b (Summoning-Singapore-Reimagined)
 
-Saved from nuclear annhilation, the Republic of Singapore was transported into another world. Cut off from supply, this nation must deal with problems from within and without as it struggles to secure resources and establish itself on an unfriendly global landscape. Will this nascent   
+Saved from nuclear annhilation, the Republic of Singapore was transported into another world. Cut off from supply, this nation must deal with problems from within and without as it struggles to secure resources and establish itself on an unfriendly global landscape. Will this nascent nation successfully rely on its talent and technology to survive in this unforgiving world or succumb to a slow, steady decay?
 
 
 ## Why Github?
