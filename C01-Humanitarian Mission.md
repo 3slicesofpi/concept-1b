@@ -39,7 +39,9 @@ Long lines were formed outside the kitchen, with each person clutching a bowl in
 
 A victorious Emmet carried the water like a bottle of wine to the ship to relish every last drop. 
 
-That evening as Emmet plopped down at the canteen to enjoy his meal (not that grey slop, thank goodness) a news broadcast caught his attention. The television showed images of burnt-out cars and shattered shopfronts. 
+#### <br>
+
+That evening, Emmet noticed the usually boisterous canteen was nearly silent; its denizens were glued to a television broadcast at the corner of the room.
 
 “…As the famine in East Africa worsens, the civil war rages on. With their dwindling supplies stretched thin, the armed groups have resorted to looting to keep the war going. We now turn to our correspondent in Africa for more details.” 
 
@@ -53,7 +55,7 @@ With a gloved hand, he raised a wilted wheat plant to the camera. It was a disgu
 
 “The virus is spreading rapidly throughout the continent. Despite large-scale efforts by the nascent African Union to slow its spread, this deadly disease has not slowed down.”
 
-“Thank goodness we all we eat are vat-grown food!” exclaimed someone, prompting a humoured response from the canteen. But Emmet was unconvinced, worriedly looking out towards the sea of tents that made up the refugee camp, then to the shifting sands beyond.
+“Thank goodness we all we eat are vat-grown food!” exclaimed someone, breaking the silence and prompting a humoured response from the canteen. But Emmet was unconvinced, worriedly looking out towards the sea of tents that made up the refugee camp, then to the shifting sands beyond.
 
 ## ACT 2
 
