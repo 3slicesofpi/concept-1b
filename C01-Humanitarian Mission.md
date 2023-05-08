@@ -2,8 +2,9 @@
 
 ## ACT 1
 
-#### “The Endurance-300 Landing Platform Dock is suited for both combat and humanitarian missions. Its expansive hangars can carry aircraft to defend the fleet or accommodate thousands of refugees.
-#### -	ST Engineering Brochure
+##### “The meeting of the Emergency Committee convened by the WHO Director-General regarding the outbreak of novel coronavirus 2019 in the Republic of the Sudan, with exportations currently reported in Ethiopia, Somalia and Kenya took place on Wednesday, 22 August 2044. The Committee’s gave advice to the Director-General, who made the final decision on the determination of a Public Health Emergency of International Concern.”
+
+#### -	Adapted from WHO statement.
 
 The warm East African sea was uncharacteristically calm today. Light waves lapped at the crumbling dock of Hobyo, slowly eroding the bare rock. A perfect day for swimming, thought Emmet as he stared blankly into the sea. 
 
@@ -59,8 +60,11 @@ With a gloved hand, he raised a wilted wheat plant to the camera. It was a disgu
 
 ## ACT 2
 
-#### TODO
-#### - World Health Organization
-Over the next few days, the situation deteriorated significantly. The virus ravaged nearly all of southern and central Africa, destroying any crop in its deadly path of destruction. Militant groups and civilians alike fought and killed for the last scraps of grain on the continent. 
+#### “The Endurance-300 Landing Platform Dock is suited for both combat and humanitarian missions. Its expansive hangars can carry aircraft to defend the fleet or accommodate thousands of refugees.
+
+#### -	ST Engineering Brochure
+
+
+
 
 
