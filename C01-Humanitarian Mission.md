@@ -1,10 +1,15 @@
 # Humanitarian Mission – 
 
+: CONTEXT: 2044, East Africa. 
+In rich countries: Importation of foreign workers such as refugees to counteract decrease in working age adults. Humanitarian mission sent to safely transport refugees.
+
 ## ACT 1
 
-##### “The meeting of the Emergency Committee convened by the WHO Director-General regarding the outbreak of novel coronavirus 2019 in the Republic of the Sudan, with exportations currently reported in Ethiopia, Somalia and Kenya took place on Wednesday, 22 August 2044. The Committee’s gave advice to the Director-General, who made the final decision on the determination of a Public Health Emergency of International Concern.”
+“The meeting of the Emergency Committee convened by the WHO Director-General regarding the outbreak of novel coronavirus 2019 in the Republic of the Sudan, with exportations currently reported in Ethiopia, Somalia and Kenya took place on Wednesday, 22 August 2044. The Committee’s gave advice to the Director-General, who made the final decision on the determination of a Public Health Emergency of International Concern.”
 
-#### -	Adapted from WHO statement.
+ -	Adapted from WHO statement.
+
+###### 1 Section 1 
 
 The warm East African sea was uncharacteristically calm today. Light waves lapped at the crumbling dock of Hobyo, slowly eroding the bare rock. A perfect day for swimming, thought Emmet as he stared blankly into the sea. 
 
@@ -19,6 +24,8 @@ But this moment of peace would not last for long. The crack of distant gunshots 
 ‘I hear that the fighting is spreading northward’ quipped a thin balding middle-aged man, referring to the civil war happening around Mogadishu. ‘They’ve exhausted their supplies down south and are raiding for food here.’ 
 
 ‘Could we be the target?’ Emmet asked. ‘Ha!’ A different man replied, ‘We have ships and they don’t! If they dare try, the Peashooter will make short work of ‘em!’ As if to reinforce his message, the ‘Peashooter’, a 76mm naval gun roared into life, its angular body turning to face the enemy. Boom! The monstrous sound of the gun firing shook even the metal structure of the tents. Emmet instinctively raised his hands to his ears and squeezed his eyes shut. 
+
+###### 1 Section 1.5 (Filler)
 
 When Emmet finally mustered enough courage to open his eyes, the gunshots had all but ceased. The ‘Peashooter’ had scared them away! Everyone cheered and laughed. Emmet just breathed a sigh of relief.  
 
@@ -40,7 +47,7 @@ Long lines were formed outside the kitchen, with each person clutching a bowl in
 
 A victorious Emmet carried the water like a bottle of wine to the ship to relish every last drop. 
 
-#### <br>
+###### 1 Section 2 
 
 That evening, Emmet noticed the usually boisterous canteen was nearly silent; its denizens were glued to a television broadcast at the corner of the room.
 
@@ -60,11 +67,36 @@ With a gloved hand, he raised a wilted wheat plant to the camera. It was a disgu
 
 ## ACT 2
 
-#### “The Endurance-300 Landing Platform Dock is suited for both combat and humanitarian missions. Its expansive hangars can carry aircraft to defend the fleet or accommodate thousands of refugees.
+“The Endurance-300 Landing Platform Dock is suited for both combat and humanitarian missions. Its expansive hangars can carry aircraft to defend the fleet or accommodate thousands of refugees.
 
-#### -	ST Engineering Brochure
+ -	ST Engineering Brochure
 
+###### 2 Section 1
 
+There was a palpable sense of dread in the air. The volunteers sat in their benches nervously, waiting for something to happen. They had been called up to the canteen, some of whom had been pulled out of jobs or, in the night shift volunteers’ case, abruptly jolted out from their afternoon nap. 
 
+Finally, an important looking person clambered onto a bench and turned to address the crowd. 
 
+Supervisor: Good morning, everyone. I have some difficult news to share with you all. Due to the worsening situation on the ground, we have decided to… call off the mission early.
 
+This was immediately met by a chorus of shocked cries and sighs of relief. Tens of voices rose above the rising background discussion, fighting for attention. “Could we have some silence please?” yelled the man before turning to let a concerned volunteer speak. 
+
+“What does that mean for the refugees? Are we just going to leave them stranded here?”
+
+“I understand how you feel, and I appreciate your commitment to helping others. Unfortunately, given the current situation, there isn't much we can do right now. The situation has become increasingly dangerous and will inhibit operations here and threaten our safety. We cannot let anyone get in harm’s way.” There were a few nods of agreement. 
+
+“This is so frustrating. We came here to help people, and now we have to leave before we can do anything. What can we do to help the refugees even though we must leave?”
+
+“Given the current situation, there isn't much we can do right now. However, we can continue to raise awareness about the situation in this region and the need for continued support and assistance.”
+
+Everyone groaned. “Raising awareness! When has that ever worked out!”
+
+“That is all we have time for today. You will be updated on your new duties later, thank you.” He said, while waving away further questions from the volunteers.
+
+###### 2 Section 2
+
+Under the devastating heat of the arc-cutter, the support pole broke in two and clattered to the floor, with a searing white-hot glow. Freed from its shackles, Emmet was able to pull the computer terminal out from its mountings and onto a large pile of stuff at the mouth of the tent. Fatigued from working non-stop for nearly four hours, Emmet took his first break since getting his duties this morning, plopping down on a bench. 
+Oh, the irony, he thought. Only last week was I setting up these tents. Now I’ll have to tear them down again. 
+A technician frantically ran past his tent, trying to save his precious equipment from being destroyed.  Their medical workbenches and computers were being ripped out of their fittings one by one to save time, much to their horror. Emmet could not resist chuckling at the absurdity of the situation.
+Emmet turned to the last appliance left in the tent, a small lab fridge. Its original contents had long since been cleared out. However, a single item remained inside its clear glass door. Emmet reached inside and retrieved a bottle of water, still chilled from the cold air left in the fridge--- A reward from the gods to thank him for his work.
+But before he could even take a sip, the chatter of gunshots jolted him out of his trance, reminding Emmet about the urgent situation outside. Back to work.
