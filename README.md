@@ -1,9 +1,16 @@
 READ THIS FIRST
-# Summoning Singapore Reimagined -- Concept-1b
+# Velvet Glove Iron Fist -- Summoning Singapore Reimagined -- Concept-1b
 version-control/handling for concept-1b (Summoning-Singapore-Reimagined)
 
 Saved from nuclear annhilation, the Republic of Singapore was transported into another world. Cut off from supply, this nation must deal with problems from within and without as it struggles to secure resources and establish itself on an unfriendly global landscape. Will this nascent nation successfully rely on its talent and technology to survive in this unforgiving world or succumb to a slow, steady decay?
 
+## What's this?
+
+This is a fantasy-scifi novel based around the concept of country level isekai. Plot is primarily based around the light novel/manga Summoning Japan (with major alterations) but with a focus on the diplomacy and worldbuilding, of which I think is absent from the original works.
+
+Plot will be split into four major parts (called Arcs, but theyre not actually arcs. This is a project that begun in the late 2020s, and confusing stuff like this is only the tip of the iceberg) exploring how the embattled nation of Singapore handles dimplomacy with technologically inferior nations, uses its sparse resources to feed an unstable population and defend against any  who threheaten its interests , territory and people. 
+
+Not only that, this novel will also seek to explore the various perspectives of the people, from outside observers, the natives of the land , to the people of Singapore itself, and how they cope with crippling economic depression and the ravages of war. (of atomic scale) 
 
 ## Why Github?
 
