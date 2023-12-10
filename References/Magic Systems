@@ -3,6 +3,7 @@ todo: prettify this mess
 Overview:
 Orthodox magic, an integral part of this world, adheres rigorously to a structured set of principles governing its existence, utilization, and limitations.
 Magic often revolves around the capture, storage and usage of a powerful energy source, mana.
+Mana is used in magic formations to do work.
 
 Foundation:
     Properties of Mana:
@@ -19,12 +20,47 @@ Foundation:
     Using Mana:
     Catalysts use mana in order to do work. However, the mana found in the surroundings are found in manacules and cannot be directly used as is. This is because the formation of the virtual conduits are random, disorderly and complicated.
     Typically, manacules are collected from the environment. They have to undergo a complicated process to remove the protective 'bubble'. 
-    To prevent the mana from decomposing the instant it is removed from its manacule, it is kept inside an isolated environment, typically within a soild metal with a maginetic field where mana can flow. Alternatively, it can bond to metals in a process called enrichment.
+    To prevent the mana from decomposing the instant it is removed from its manacule, it is kept inside an isolated environment, typically within a soild metal with a magnetic field where mana can flow. Alternatively, it can bond to metals in a process called enrichment.
     Catalysts are materials that will use mana to do work. They come in different shapes and sizes.
+    The mana will be moved to a catalyst which converts mana into work.
 
     Magic formations:
-    A simple magic formation consists of source(s) of mana, conduits and catalyst(s) arranged in a specific pattern for the efficient and safe flow of mana through conduits.
+    A simple magic formation consists of three components: source(s) of mana, conduits and catalyst(s). 
+    These are arranged in a specific pattern for the efficient and safe flow of mana through conduits.
     Some catalysts also require special conditions to be met before they can function properly.
     Functional, efficient and safe magic formations are the backbone of any magic-based civilisation.
 
-     
+
+Magic Formations
+Magic formations typically consist of three types of components: sources of mana, conduits (logistics) and catalysts.
+
+    Sources of mana:
+        Simple Manastones (Enriched Rocks):
+        Under the right conditions, mana flowing in the earth can get stuck, creating large concentrations of manacules. Over time, this mana will bond to the surrounding rocks, enriching the rock and creating manastones.
+        Simple Manastones are relatively abundant but are most common near the north and south pole, where the planet's magnetic field is strongest and the flow of manacules, greatest.
+        However, the amount of mana within these rocks are low and the process to extract the mana is long and expensive, which makes simple manastones less desirable.
+
+        Mana Crystals:
+        Some plants and animals will store some of the mana in their bodies in a mana crystal, using it as a form of energy storage to survive Elysia's long and brutal winters. When they die, the crystals will remain in the ground.
+        Essentially a supermassive manacule (manacule formations exist thoughout the crystal, creating a form of structure), mana crystals are simple to use and are thus the first choice for small and simple magic formations.
+        Mana crystals are abundant, though rarer than Simple manastones. Mana crystals found in the frigid north have high mana capacity but release mana much slower, reflecting their original use for hibernation while mana crystals found under grasslands release mana faster at the cost of capacity as its owners spend their mana on chasing prey.
+
+        Mana Batteries:
+        Batteries are mana crystals created by civilisation instead of occuring naturally. 
+        While most mana crystals will lose the ability to be recharged over the eons they spend underground, harvesting the mana crystals from freshly harvested animals will preserve this vaunted ability.
+        Many farms breed apex predators at a industrial scale to produce mana batteries by the ton.
+
+        Mana Capacitators:
+        Purely artificial designs, mana capacitators are specialized crystals formed in a lab under carefully controlled conditions. They are capable of releasing their entire store of mana in mere moments, making them useful in large, complicated magic formations which require large but momentary mana thoughput such as guns.
+        Mana capacitators are highly expensive due to the high cost of production and lack of supply.
+        In place of capacitators, the much cheaper mana battery is used instead.
+
+        Collectors:
+        Collectors are specialized magic formations designed towards the collection of manacules from the surrounding environment to be used in the magic formation. They are often embedded in the main formation as runes (think def(): functions) but can exist as standalone magic formations to produce larger amounts of mana. 
+        Some collectors spend a portion of the collected mana in purposeless manaic events (such as generating heat) to attract more manacules to the collector (or at least increase the flow of mana) thus increasing absorption rate.
+        Too many collectors in one area can result in the depletion of manacules as they are absorbed faster than they can be replaced. This concern becomes especially relevant with large heavy-duty industrial collectors, which can deplete entire regions.
+
+    Conduits (logistics of mana):
+        
+
+    Catalysts:
