@@ -35,7 +35,9 @@ Magic Formations
 Magic formations typically consist of three types of components: sources of mana, conduits (logistics) and catalysts.
 They are the foundation to a modern, industrial magic civilisation, unlocking the secrets of mass production and automation.
 
-    Sources of mana:
+    Sources:
+    These components generate the nescessary mana neeeded the power the rest of the formation.
+    There are two types of sources; batteries (storage) and collectors (production).
         Simple Manastones (Enriched Rocks):
         Under the right conditions, mana flowing in the earth can get stuck, creating large concentrations of manacules. Over time, this mana will bond to the surrounding rocks, enriching the rock and creating manastones.
         Simple Manastones are relatively abundant but are most common near the north and south pole, where the planet's magnetic field is strongest and the flow of manacules, greatest.
@@ -58,7 +60,7 @@ They are the foundation to a modern, industrial magic civilisation, unlocking th
 
         Collectors:
         Collectors are specialized magic formations designed towards the collection of manacules from the surrounding environment to be used in the magic formation. They are often embedded in the main formation as runes (think def(): functions) but can exist as standalone magic formations to produce larger amounts of mana. 
-        Some collectors spend a portion of the collected mana in purposeless manaic events (such as generating heat) to attract more manacules to the collector (or at least increase the flow of mana) thus increasing absorption rate.
+        Some collectors spend a portion of the collected mana in purposeless manaic events (such as generating heat) to attract more manacules to the collector (or at least increase the flow of mana) thus increasing absorption rate. These are called active capture collectors.
         Too many collectors in one area can result in the depletion of manacules as they are absorbed faster than they can be replaced. This concern becomes especially relevant with large heavy-duty industrial collectors, which can deplete entire regions.
 
         Virtualized Conduits:
@@ -67,6 +69,7 @@ They are the foundation to a modern, industrial magic civilisation, unlocking th
         vConduits require mana to sustain itself else it will decompose.
 
     Conduits (logistics of mana):
+    Essential for delivering mana from the sources to the consumers. Ensures that mana does not decompose while in transit.
         Wires:
         By manipulating a magnetic field within a solid metal block, mana can flow through unimpeded.
         A rune may be inserted within the wire to create the magnetic field that causes mana flow.
@@ -82,6 +85,8 @@ They are the foundation to a modern, industrial magic civilisation, unlocking th
         vConduits require mana to sustain itself or else it will decompose.
 
     Catalysts: (this is only a short list)
+    Converts energy into work done. The centerpiece of the magic formation.
+    Some catalysts are used in a support role.
         Tears:
         Named after its eyedrop-like shape, Tears 'grab' onto manacules and pull them towards itself. Pulling bonded manacules will cause the enriched matter to move in the same direction. Used in conjunction with the Longan.
         Tears differ in size, lift weight, consumption rate, etc.
@@ -97,6 +102,10 @@ They are the foundation to a modern, industrial magic civilisation, unlocking th
         Sensor Crystals:
         When the crystal absorbs light, it will vibrate.
         Different sensor variants absorb light at differing frequencies, from radio waves to UV light.
+
+        Clarifying Lens:
+        Fuses with other catalysts to give it a range aspect (allows a longan to enrich rocks farther away, rather than the rocks right next to it.)
+        Many different variants exists, including pure runic crystals and even one made of plant fibre.
 
 
 
