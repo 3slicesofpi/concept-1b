@@ -63,11 +63,6 @@ They are the foundation to a modern, industrial magic civilisation, unlocking th
         Some collectors spend a portion of the collected mana in purposeless manaic events (such as generating heat) to attract more manacules to the collector (or at least increase the flow of mana) thus increasing absorption rate. These are called active capture collectors.
         Too many collectors in one area can result in the depletion of manacules as they are absorbed faster than they can be replaced. This concern becomes especially relevant with large heavy-duty industrial collectors, which can deplete entire regions.
 
-        Virtualized Conduits:
-        vConduits are long thin strings of energy that can store a small amount of mana.
-        By creating numerous copies of very long conduits, the low mana capacity of a conduit can be overcome in order to create a battery.
-        vConduits require mana to sustain itself else it will decompose.
-
     Conduits (logistics of mana):
     Essential for delivering mana from the sources to the consumers. Ensures that mana does not decompose while in transit.
         Wires:
@@ -107,6 +102,23 @@ They are the foundation to a modern, industrial magic civilisation, unlocking th
         Fuses with other catalysts to give it a range aspect (allows a longan to enrich rocks farther away, rather than the rocks right next to it.)
         Many different variants exists, including pure runic crystals and even one made of plant fibre.
 
+Virtualized Magic Formations
+A subset of the study of magic formations first pioneered by the renowned engineer Po Virt.
+Magic formations but the components are massless, weightless and can move about freely.
+This makes Virtualized magic formations expandable and portable, enabling new revolutionary technologies.
+
+    Limitations
+    Virtualized magic formations are essentially direct copies of their material relatives, with notable examples being batteries and conduits which work exactly the same for both versions.
+    However, Virtualized Magic Formations have inherent limitations that must be overcome to attain this technology's full potential.
+
+        Passive Drain
+        All Virtual components require a small amount of mana to sustain themselves
+        Limited Selection of Catalysts
+        No Clarifying Lens: Can only interact with things next to (or within) the formation.
+        No Collectors: All virtualized magic formations cannot absorb mana from the surroundings and are totally dependent on an outside source for energy.
+        ...
+        Complex Initalization Procedure
+        Specialized runes called programmable weavers are used to build and maintain a virtualized magic formation. These runes are highly complex and unimaginably expensive.
 
 
 Arcana
