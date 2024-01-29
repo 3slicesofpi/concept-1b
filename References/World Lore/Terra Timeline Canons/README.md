@@ -3,10 +3,9 @@
 
 Regarding the timeline of Earth/Terra prior to the Transfer Event, there is no true canon.
 
-Geopolitics is hard. Predicting the events of the future is challenging, considering how the Earth is filled with many different cultures and nations, all of which have differing needs and interests and act according to a various principles and limitations. Shaping the world order to fit the plot while being both accurate and nuanced is nigh impossible.
-Additionally, readers may disagree with the views of the author(s), causing unneeded conterversy, creating pointless arguments and forming hatred. (read as: author doesnt want to get into flame war between commies and fascists)
+Instead, there is a system of multicanons, where every acceptable timeline will be considered true and canon. Each timeline will have to fulfill a series of 'plug-and-play' requirements to ensure it is compatiable with the rest of the plot.
 
-Instead, a system of multicanons is in place, where every possible timeline written is considered canon, and are all equally true. Everyone and anyone can create their own timeline and it will be accepted as long as they satisfy the following requirements:
+You can create your own timeline and show how actions and events can come together to spark a world-ending conflict. The timeline will be accepted into the multicanon if it satisfies the following requirements. 
 
 |No.|Requirement|
 |-|-|
@@ -17,3 +16,9 @@ Instead, a system of multicanons is in place, where every possible timeline writ
 Subject to change. Older timelines using old requirements may be grandfathered in if this list is updated.
 
 Requirements last updated in Feb 2024
+
+View Final War Lore for more information.
+
+You may add in your own unique twist when writing your timeline. Insert dubious geopolitical takes, extreme ideological tendencies, hair-raising genocidal horror or even literal smut. You could even add in hope and happiness and lovable side characters frolicking around in vibrant green meadows. (but be warned: everything dies in a few short years.)
+
+However, submitted timelines that include extremist content and vulgar material that conflict with the Terms of Service of Git/Github will not be showcased here.  
