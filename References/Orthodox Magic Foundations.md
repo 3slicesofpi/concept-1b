@@ -164,3 +164,40 @@ Fuses with other catalysts to give it a range aspect (allows a longan to enrich 
 Many different variants exists, including pure runic crystals and even one made of plant fibre.
 
 ## Runes
+A pre-built 'mini magic formation' formation module that can be installed inside a magic formation to perform a specific task.
+
+Runes can be used to create specific mana strings or parts of strings for use in large complex designs or be a self-contained magic formation that powers a catalyst. The uses of runes are extensive.
+
+### Benefits
+- Better Than The Alternative of building functionality from scratch.
+- Optimized and Compact. Incremental changes to the design of runes over the decades have steadily improved their quality. 
+- Easy Implementation.
+
+### Disadvantages
+- Pay the licensing fee.
+- Pay the licensing fee.
+- Spend a month looking for cheaper alternatives (fail miserably)
+
+### Examples
+
+- **Runic Collectors**
+Specialized magic formations for collecting mana from the environment, embedded in a larger formation to provide a supply of energy.
+
+- **Tractors**
+Specialized magic formations for picking up a ball of earth or water and moving it around. Most tractor runes have other runes embedded within them 
+It is rare to see a tractor rune mounted on a larger formation due to its complexity.
+
+- **Engine**
+spins
+
+- **Control Group/Rune** A collection of processors that controls the flow rate of mana.
+
+- **Filter Group/Rune** A collection of processors that separates ideal mana strings from flux, increasing overall efficiency of the formation.
+
+## Cultivation
+
+Cultivation is a technique the people of Elysia use to use and manipulate magic using their own bodies. With their blood as conduits and organs as catalysts, mages can use magic to cast complex spells or harness its medicinal properties to heal and fix, or even improve oneself.
+
+The body is like a magic formation, with the skin acting as collectors, the blood acting as conduits, the bone acting as processors and the organs acting as catalysts. By harnessing the power of these body parts, mages can cast spells like magic formations.
+
+
