@@ -114,7 +114,7 @@ By manipulating a magnetic field within a solid metal block, mana can flow throu
 A rune may be inserted within the wire to create the magnetic field that causes mana flow.
 As wires have to be made of magnetic metals such as iron, they are cast as one solid block.
 
-- **Blood**
+- **Blood (See 'Cultivation')**
 Some animals (including elves and certain humans) have blood that can carry artificial manacules. The manacules can bond to their blood cells easily and release mana readily at their destination, making for a efficient method to transport mana though an animal's body.
 However, great care must be taken to prevent manacules from the environment from entering the bloodstream as they will bond to blood cells in place of regular manacules and cannot be seperated.
 
@@ -122,7 +122,9 @@ However, great care must be taken to prevent manacules from the environment from
 
 Processors manipulate the wave functions of mana instances and then attach the changed mana together to form long mana strings, which would be used in catalysts to do magic.
 
-Mana processing is one of the most complicated parts of the magic formation as extreme accuracy and precision is needed, while demand for raw throughput is high.
+In magic formations, processors are arranged together in large groups for the fast and efficient manipulation of mana wave functions. These are called processing groups.
+
+Mana processing groups are one of the most complicated parts of the magic formation as extreme accuracy and precision is needed, while demand for raw throughput is high.
 
 Flux, a product of errant processors producing incomplete or faulty mana-strings can also be formed and must be cleared.
 
@@ -198,6 +200,47 @@ spins
 
 Cultivation is a technique the people of Elysia use to use and manipulate magic using their own bodies. With their blood as conduits and organs as catalysts, mages can use magic to cast complex spells or harness its medicinal properties to heal and fix, or even improve oneself.
 
-The body is like a magic formation, with the skin acting as collectors, the blood acting as conduits, the bone acting as processors and the organs acting as catalysts. By harnessing the power of these body parts, mages can cast spells like magic formations.
+The body is like a magic formation, with the skin acting as collectors, the blood acting as conduits, the bone acting as processors and the organs acting as catalysts. By harnessing the power of these body parts, mages can create magic formations within their own bodies, casting spells.
+
+### Parallels to Magic Formations
+
+#### Skin (Absorption from Environmnent)
+The skin is able to break down manacules and repackage the mana in artificial manacules, which can be transported in the bloodstream and can be used.
+
+Most cultivators (even proficient mages) use passive collection to passively absorb manacules from the surroundings.
+
+Although this method will collect less mana, the lower mana throughput combined with steady flow means that mages do not need to develop their skin as much and can focus their efforts on using mana more efficiently instead.
+
+Mages looking for greater passive absorption rate can give themselves a static electric charge to attract more manacules. However, they must first learn how to create such a charge --and more importantly-- to avoid inflicting harm on themselves and others.
+
+Mages looking for even greater passive absorption rate but are unable or unwilling to develop their skin may choose Skin Absorption from Liquid instead. By immersing part of their body into a mana-rich liquid, mages can absorb more mana through their skin.
+
+This method is useful for the development other parts of a mage's body or even the casting of powerful spells, which requires a large amount of mana.
+
+However, ensuring that the liquid remains mana-rich during the lengthy meditative process of development requires an array of expensive equipment to inject manacules to the liquid. Thus, this method is limited to mage self-development or in the casting of powerful defense spells for fortresses or cities.
+
+#### Skin (Absorption from Manastones)
+Some cultivators choose to absorb mana from a source with a higher concentration of mana such as a manastone. 
+
+This process is faster and more efficient because not only would there be more mana present closer to the skin, a complicated process to break down manacules are not needed with most manastones. 
+
+Cultivators also only need to develop one part of their skin, usually their hip or thigh, instead of improving their entire skin surface. This saves resources and time.
+
+Additionally, cultivators using this method do not have to immerse themselves in mana-rich water; a pipe can be run across the absorption areas of their skin, pumping vital mana-rich liquids and gels. Though expensive equipment is still needed, large tubs of liquid are no longer nesscary.
+
+These factors mean that this method allows for **faster progression**.
+
+Of course, this comes with the trade-off that distributing collected mana in the bloodstream becomes more complicated. Mages using this method must carefully control their blood flow from the collection area in their lower body, through the heart, liver, lungs and kidneys, to the processors and catalysts.
+
+Elven bodies are already built for passive absorption from the environment so internal mana distribution comes naturally for them if they use that method. However, if elves want to absorb mana from manastones, they must learn to redirect and control blood flow.
+
+Human (and some part-elf races) do not have the luxury of natural mana distribution (In fact, they have to build up all of their magic abilities from scratch!) and must learn and develop the means to redirect and control mana flow in their bodies as a vital part of their career.
+
+Hence, absorption from manastones is a major investment for elf cultivators as they have to learn to actively control mana flow while humans can choose freely between the two as they are actively controlling mana flow either way.
+
+Another limitation of absorption from manastones is the cost of mana supply. Common rocks are dirt cheap but provide little mana and need replacement often. Rare mana batteries harvested from apex predators can provide a reliable source of mana that can be recharged but have a high price. This is opposed to freely taking manacules from the environment, which is free.
+
+
+
 
 
