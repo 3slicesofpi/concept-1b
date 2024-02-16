@@ -171,9 +171,9 @@ A pre-built 'mini magic formation' formation module that can be installed inside
 Runes can be used to create specific mana strings or parts of strings for use in large complex designs or be a self-contained magic formation that powers a catalyst. The uses of runes are extensive.
 
 ### Benefits
-- Better Than The Alternative of building functionality from scratch.
-- Optimized and Compact. Incremental changes to the design of runes over the decades have steadily improved their quality. 
-- Easy Implementation.
+- **Better Than The Alternative** of building functionality from scratch.
+- **Optimized and Compact.** Incremental changes to the design of runes over the decades have steadily improved their quality. 
+- **Easy Implementation.** 
 
 ### Disadvantages
 - Pay the licensing fee.
@@ -238,7 +238,54 @@ Human (and some part-elf races) do not have the luxury of natural mana distribut
 
 Hence, absorption from manastones is a major investment for elf cultivators as they have to learn to actively control mana flow while humans can choose freely between the two as they are actively controlling mana flow either way.
 
-Another limitation of absorption from manastones is the cost of mana supply. Common rocks are dirt cheap but provide little mana and need replacement often. Rare mana batteries harvested from apex predators can provide a reliable source of mana that can be recharged but have a high price. This is opposed to freely taking manacules from the environment, which is free.
+Another limitation of absorption from manastones is the cost of mana supply. Similar to magic formations, mages have to rely on manastones for a supply of mana. 
+
+While some mages spend single-use manastones, which are both cheaper and easier to use, a multiple-use mana crystal is favoured for its longer lifespan and convenience.
+
+#### Batteries
+Some cultivators develop a reserve of mana within their own bodies; their very own mana crystal. 
+Batteries are usually positioned near the heart or critical arteries to simplify mana distribution.
+
+With a battery, mages with low mana production can cast big spells and avoid running out of mana in critical moments.
+
+Batteries are most popular with mages absorbing from environment as it alleviates some problems. 
+
+However, with the rising popularity of absorbing from manastones, few mages want to develop batteries. 
+Instead, capacitators have become more popular to deliver short-term bursts of mana for short but powerful spells.
+
+#### Blood (Conduits)
+After the skin removes the mana from the manacules, it is immediately placed in an artificial manacule in the blood.
+The manacules can bond to their blood cells readily and leave just as easily at their destination, making for a efficient method to transport mana though an animal's body.
+
+Manacule-carrying blood will flow from the skin, pumped through the heart and sent to wherever its needed around the body. Mages can temporarily divert blood to flow only to certain parts of the body, charging and discharging batteries and activating selected catalysts and processors.
+
+**Risks and Explosion Events**
+
+Great care must be taken to prevent natural manacules from the environment from entering the bloodstream as they will bond to blood cells in place of regular manacules and cannot be seperated. (think carbon monoxide poisoning)
+
+This often occurs when mages try to absorb more manacules than their skin can deal with, allowing natural manacules to seep though and enter the bloodstream. This is especially common with mages who use batteries as the skin cannot cope with big spikes in mana absorption rates.
+
+If too many manacules are present in the bloodstream, the artifical manacules may react with each other (or even natural manacules permanently bonded to blood cells) creating a small explosion within the bloodstream.
+With large enough amounts of mana, a runaway chain reaction can occur where all the mana in the bloodstream reacts, causing a massive explosion, which is often fatal.
+
+Though one defining characteristic of cultivation is the ability to alter mana flow on the fly, many mages find it difficult to do that when manaic current is high (such as when they are in the middle of casting a spell.) 
+
+Attempting to do so without the proper technique may result in the aforementioned event (unintentional runaway reactions in your heart and blood). 
+
+Manacule-laden blood cells carrying a large amount of energy could penetrate blood vessels and tissue, causing severe internal bleeding.
+
+#### Bone Marrow (Processors)
+
+The rigid and hard marrow is a good place for delicate and fragile processors. Once developed, the processors share the same space as blood-producing bone marrow.
+
+Processors are typically arranged linearly as bones are normally straight. 
+They can be arranged upwards, facing the centre of the body, towards the organ-catalysts there, or they can be arranged downwards, towards the hands, which can hold a catalyst. 
+
+#### Organs (Catalysts)
+The mages' organs act as catalysts. When processed mana strings are introduced to the organs, they will spend the mana to do work. Activating one or more organs allows a mage to cast a spell.
+
+Organs are typically positioned close to the processors in the bone marrow to reduce the travel time of the strings of mana.
+
 
 
 
